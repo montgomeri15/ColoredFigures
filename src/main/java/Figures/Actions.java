@@ -1,3 +1,5 @@
+package Figures;
+
 public interface Actions {
 
     void painting();
